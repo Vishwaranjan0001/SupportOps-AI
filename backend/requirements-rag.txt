@@ -1,0 +1,6 @@
+-r requirements.txt
+# Optional semantic-vector RAG. Not required to start the main app.
+langchain-chroma>=0.2,<2
+langchain-huggingface>=0.2,<2
+langchain-text-splitters>=0.3,<2
+sentence-transformers>=3,<6

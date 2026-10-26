@@ -1,0 +1,9 @@
+# Use Python 3.11 or 3.12. MCP SDK v2 with native LangChain MCPAdapter.
+fastapi>=0.115,<1
+uvicorn>=0.30,<1
+langchain[mcp]>=1.4,<2
+langchain-groq>=1,<2
+langgraph>=1,<2
+langgraph-checkpoint-sqlite>=2,<4
+mcp>=2,<3
+aiosqlite>=0.20,<1

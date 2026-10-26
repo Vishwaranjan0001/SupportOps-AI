@@ -1,0 +1,6 @@
+REFUND POLICY — Fictional SupportOps Store
+A customer may request a refund within 7 calendar days after delivery.
+The order must be marked eligible in our database before a refund request is submitted.
+Damaged items require a photograph for review. The support agent may request evidence.
+Creating a refund request does not issue money. A human manager must approve or reject it.
+This demo only records approval status; it never makes a payment or transfers funds.

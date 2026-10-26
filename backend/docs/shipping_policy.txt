@@ -1,0 +1,5 @@
+SHIPPING POLICY — Fictional SupportOps Store
+Orders move through PROCESSING, SHIPPED and DELIVERED states.
+Standard shipping normally takes 3–6 business days after dispatch.
+For actual order status, the AI must look up the customer order in the database.
+Delivery estimates are not guaranteed. Create a support ticket for shipping problems.
